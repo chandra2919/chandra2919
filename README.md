@@ -12,7 +12,7 @@
 - 💡 Passionate about solving real-world problems  
 - 🧠 Exploring Deep Learning & System Design  
 - 🔥 Building scalable Full Stack Applications  
-- 📫 Reach me at: **venkatarohithkoppolu@gmail.com**
+- 📫 Reach me at: **gcsvarma29@gmail.com**
 
 ---
 
